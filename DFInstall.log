@@ -1,0 +1,103 @@
+2022-04-05 12:15:37 [3820-4632] :: Info :: 
+2022-04-05 12:15:37 [3820-4632] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2022-04-05 12:15:37 [3820-4632] :: Info :: DF Installer version: 8.60.020.5592
+2022-04-05 12:15:37 [3820-4632] :: Info :: Check for supported platforms.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 1.0 - Start Pre-installation checks.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 1.2 - Detected Windows Desktop (Non-server Edition)
+2022-04-05 12:15:37 [3820-4632] :: Info :: 1.11 - Pre-installation tests completed SUCCESSFULLY.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 2.0 - Read Configuration and Setup Flags.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 2.5 - Read Configuration and Setup Flags completed SUCCESSFULLY.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 3.0 - Check for upgradability.
+2022-04-05 12:15:37 [3820-4632] :: Info :: Clean Installation for the first time.
+2022-04-05 12:15:37 [3820-4632] :: Info :: Clean Installation for the first time.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 4.0 - Check for Windows Updates that are pending configuration.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 4.5 - Windows Updates (by Historical Count) = 27
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [1] :: 9NBLGGH3FRZM-Microsoft.VCLibs.140.00 :: Installed (UTC) : 4/5/2022 6:15:05 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [2] :: 9WZDNCRFJBBG-MICROSOFT.WINDOWSCAMERA :: Installed (UTC) : 4/5/2022 6:10:47 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [3] :: 9NBLGGH3FRZM-Microsoft.VCLibs.140.00 :: Installed (UTC) : 4/4/2022 8:06:39 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [4] :: 9NBLGGH3FRZM-Microsoft.VCLibs.140.00 :: Installed (UTC) : 4/4/2022 8:06:39 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [5] :: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.361.1269.0) :: Installed (UTC) : 4/4/2022 6:57:54 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [6] :: Feature update to Windows 10, version 1909 :: Installed (UTC) : 4/4/2022 6:25:20 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [7] :: Feature update to Windows 10, version 1909 :: Installed (UTC) : 9/13/2021 8:32:34 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [8] :: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.329.1146.0) :: Installed (UTC) : 12/27/2020 1:08:45 PM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [9] :: Feature update to Windows 10, version 1909 :: Installed (UTC) : 12/27/2020 1:02:47 PM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [10] :: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.329.1155.0) :: Installed (UTC) : 12/27/2020 11:16:16 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [11] :: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.329.1151.0) :: Installed (UTC) : 12/27/2020 9:08:31 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [12] :: 9NMPJ99VJBWV-Microsoft.YourPhone :: Installed (UTC) : 12/27/2020 9:08:04 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [13] :: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP :: Installed (UTC) : 12/27/2020 9:07:30 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [14] :: 2020-10 Update for Windows 10 Version 1903 for x64-based Systems (KB4023057) :: Installed (UTC) : 12/27/2020 9:04:31 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [15] :: 2020-11 Cumulative Update for .NET Framework 3.5 and 4.8 for Windows 10 Version 1903 for x64 (KB4580980) :: Installed (UTC) : 12/27/2020 9:04:30 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [16] :: Windows Malicious Software Removal Tool x64 - v5.84 (KB890830) :: Installed (UTC) : 12/27/2020 9:04:07 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [17] :: 2020-10 Security Update for Adobe Flash Player for Windows 10 Version 1903 for x64-based Systems (KB4580325) :: Installed (UTC) : 12/27/2020 9:02:07 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [18] :: Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2011.6) :: Installed (UTC) : 12/27/2020 8:58:16 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [19] :: 9PLFNLNT3G5G-AppUp.IntelGraphicsExperience :: Installed (UTC) : 12/15/2020 10:08:19 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [20] :: 9MW2LKJ0TPJF-Microsoft.NET.Native.Framework.2.2 :: Installed (UTC) : 12/15/2020 10:08:19 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [21] :: 9PLL735RFDSM-Microsoft.NET.Native.Runtime.2.2 :: Installed (UTC) : 12/15/2020 10:08:19 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [22] :: 9NBLGGH3FRZM-Microsoft.VCLibs.140.00 :: Installed (UTC) : 12/15/2020 10:08:19 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [23] :: Intel Corporation - Display - 27.20.100.8681 :: Installed (UTC) : 12/15/2020 10:06:40 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [24] :: Intel - Other hardware - Intel(R) Management Engine Interface :: Installed (UTC) : 12/15/2020 10:04:14 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [25] :: Realtek Semiconductor Corp. - MEDIA - 6/3/2016 12:00:00 AM - 6.0.1.7841 :: Installed (UTC) : 12/15/2020 10:03:51 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [26] :: Intel - Other hardware - Intel(R) 100 Series/C230 Series Chipset Family PMC - A121 :: Installed (UTC) : 12/15/2020 9:59:07 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: Update [27] :: Intel(R) Corporation - MEDIA - 4/16/2016 12:00:00 AM - 8.20.0.922 :: Installed (UTC) : 12/15/2020 9:58:52 AM
+2022-04-05 12:15:37 [3820-4632] :: Info :: 4.9 - NO updates are IN-PROGRESS and PENDING configuration. PROCEED with DeepFreeze installation.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 5.0 - Preprocess Thawspace volume drives.
+2022-04-05 12:15:37 [3820-4632] :: Info :: 5.9 - Preprocess Thawspace Volume Drives completed SUCCESSFULLY.
+2022-04-05 12:15:39 [3820-4632] :: Info :: Check for minimum available disk space
+2022-04-05 12:15:39 [3820-4632] :: Info :: Start DeepFreeze Installation
+2022-04-05 12:15:39 [3820-4632] :: Info :: Handle License Validation
+2022-04-05 12:15:39 [3820-4632] :: Info :: Handle Existing ThawSpaces
+2022-04-05 12:15:39 [3820-4632] :: Info :: Starting DeepFreeze Installation-1
+2022-04-05 12:15:39 [3820-4632] :: Info :: Setup DeepFreeze Install folder
+2022-04-05 12:15:39 [3820-4632] :: Info :: Copy DeepFreeze files
+2022-04-05 12:15:39 [3820-4632] :: Info :: Copy File From=FrzState2k.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\\_$Df\
+2022-04-05 12:15:39 [3820-4632] :: Info :: Copy File From=DeepFreezeAdapter.dll To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:39 [3820-4632] :: Info :: Copy File From=DFServ.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy MOF files
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy MOF files
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:15:40 [3820-4632] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-04-05 12:15:40 [3820-4632] :: Info :: Install MOF files
+2022-04-05 12:15:40 [3820-4632] :: Info :: Install Adapter
+2022-04-05 12:15:40 [3820-4632] :: Info :: Install DeepFreeze Service
+2022-04-05 12:15:41 [3820-4632] :: Info :: Detected Workstation Install
+2022-04-05 12:15:41 [3820-4632] :: Info :: Copy File From=DeepFrz.sys To=C:\Windows\system32\drivers\
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Driver (DeepFrz.sys)
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Volume Filters
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Disk Filters
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Mouse Filter
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Keyboard Filter
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install/Upgrade FarDisk Driver
+2022-04-05 12:15:41 [3820-4632] :: Info :: Copy File From=DfDiskLo.sys To=C:\Windows\system32\drivers\
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Driver (DFDiskLo.sys)
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Disk Lower Filter
+2022-04-05 12:15:41 [3820-4632] :: Info :: Copy File From=DFFilter.sys To=C:\Windows\system32\drivers\
+2022-04-05 12:15:41 [3820-4632] :: Info :: Install Driver (DFFilter.sys)
+2022-04-05 12:15:41 [3820-4632] :: Info :: NTFS File System supported
+2022-04-05 12:16:01 [3820-4632] :: Info :: Handle BootStat
+2022-04-05 12:16:01 [3820-4632] :: Error :: DInstall2000::RenameBootStat() - 1. MoveFileEx() call FAILED with an Error = 0x00000020 - The process cannot access the file because it is being used by another process. 
+2022-04-05 12:16:01 [3820-4632] :: Info :: Handle Crash Control
+2022-04-05 12:16:01 [3820-4632] :: Info :: Handle Logon
+2022-04-05 12:16:01 [3820-4632] :: Info :: Handle Check Disk
+2022-04-05 12:16:01 [3820-4632] :: Info :: Handle Miscellaneous Registry
+2022-04-05 12:16:01 [3820-4632] :: Info :: Copy MOF files
+2022-04-05 12:16:01 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:16:01 [3820-4632] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:16:01 [3820-4632] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2022-04-05 12:16:01 [3820-4632] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2022-04-05 12:16:01 [3820-4632] :: Info :: Install ThawSpaces
+2022-04-05 12:16:01 [3820-4632] :: Info :: Determining if existing ThawSpaces need to be retained
+2022-04-05 12:16:01 [3820-4632] :: Info :: Installing ThawSpace components
+2022-04-05 12:16:07 [3820-4632] :: Info :: Completed DeepFreeze Installation
+2022-04-05 12:16:13 [3820-4632] :: Info :: KcExitWindows::KcExitWindows(1.0) - ENTER
+2022-04-05 12:16:13 [3820-4632] :: Info :: KcExitWindows::KcExitWindows(1.1) - Modify Process Privileges
+2022-04-05 12:16:13 [3820-4632] :: Info :: KcExitWindows::KcExitWindows(1.2) - Launch Restart/Shutdown Thread
+2022-04-05 12:16:13 [3820-4228] :: Info :: ENTER - Flags = 0x00000001 (0=S 1=R 2=PO 3=LO)
+2022-04-05 12:16:14 [3820-4228] :: Info :: 1.0 - REBOOT
+2022-04-05 12:16:14 [3820-4228] :: Info :: 1.3 - InitiateShutdownW() completed SUCCESSFULLY
+2022-04-05 12:16:14 [3820-4228] :: Info :: 1.4 - 60 sec delay
